@@ -17,6 +17,7 @@ out/
 !**/src/test/**/out/
 .idea/kotlinNotebook.xml
 .idea
+.fleet/
 
 ### Kotlin ###
 .kotlin
